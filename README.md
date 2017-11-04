@@ -1,0 +1,1 @@
+# jhipstry-registry
